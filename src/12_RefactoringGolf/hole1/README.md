@@ -1,3 +1,4 @@
+# Guillaume BERTRAND, Lucille FERRAN, Fantin ELALLOUF
 # Hole 3 to Hole 4
 
 Change the code in hole 3 to be identical to the code on hole 4, both implenentation and tests can change.
